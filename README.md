@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Residual
 
-## Getting Started
+An atmospheric interactive photography experience built with Next.js and Framer Motion.
 
-First, run the development server:
+Residual explores memory, repetition, silence, and emotional perception through cinematic scroll storytelling, ambient sound, and photography.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+> *What remains after the moment.*
+
+---
+
+## Concept
+
+Residual is not intended to behave like a traditional portfolio or gallery.
+
+The experience is designed as a sequence of emotional scenes:
+
+* photographs
+* fragments of text
+* motion
+* darkness
+* sound
+* pauses
+
+The goal is to create a contemplative atmosphere where the user slowly drifts through visual memories instead of navigating content.
+
+---
+
+## Features
+
+* Cinematic scroll transitions
+* Layered scene system
+* Ambient audio experience
+* Atmospheric motion design
+* Reusable scene architecture
+* Minimal UI
+* Responsive layout
+* Smooth custom scrolling
+* Experimental storytelling
+
+---
+
+## Tech Stack
+
+* Next.js
+* React
+* Framer Motion
+* Tailwind CSS
+* TypeScript
+
+---
+
+## Project Structure
+
+```txt
+/app
+  /components
+    Scene.tsx
+
+  /hooks
+    useAmbientAudio.ts
+    useSlowScroll.ts
+
+  constants.ts
+  types.ts
+  page.tsx
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Philosophy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Residual intentionally avoids:
 
-## Learn More
+* aggressive interaction
+* excessive UI
+* content overload
+* social mechanics
+* traditional navigation patterns
 
-To learn more about Next.js, take a look at the following resources:
+The experience is built around:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* pacing
+* atmosphere
+* emotional space
+* visual silence
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Running Locally
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm install
+npm run dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Future Ideas
+
+* Original ambient soundtrack
+* Scene-specific sound design
+* Dynamic grain/noise system
+* Mobile motion refinements
+* Interactive typography
+* Procedural atmospheric layers
+* Photography metadata integration
+
+---
+
+## Author
+
+Created by Gonza.
+
+Built during a moment of reconstruction, curiosity, and creative rediscovery.
