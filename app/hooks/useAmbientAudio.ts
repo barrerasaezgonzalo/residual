@@ -8,7 +8,7 @@ export function useAmbientAudio() {
     if (!audioRef.current || isPlaying) return;
 
     try {
-      audioRef.current.volume = 0; 
+      audioRef.current.volume = 0;
       await audioRef.current.play();
       setIsPlaying(true);
 

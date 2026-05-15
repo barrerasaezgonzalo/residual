@@ -4,7 +4,7 @@ An atmospheric interactive photography experience built with Next.js and Framer 
 
 Residual explores memory, repetition, silence, and emotional perception through cinematic scroll storytelling, ambient sound, and photography.
 
-> *What remains after the moment.*
+> _What remains after the moment._
 
 ---
 
@@ -14,12 +14,12 @@ Residual is not intended to behave like a traditional portfolio or gallery.
 
 The experience is designed as a sequence of emotional scenes:
 
-* photographs
-* fragments of text
-* motion
-* darkness
-* sound
-* pauses
+- photographs
+- fragments of text
+- motion
+- darkness
+- sound
+- pauses
 
 The goal is to create a contemplative atmosphere where the user slowly drifts through visual memories instead of navigating content.
 
@@ -27,25 +27,25 @@ The goal is to create a contemplative atmosphere where the user slowly drifts th
 
 ## Features
 
-* Cinematic scroll transitions
-* Layered scene system
-* Ambient audio experience
-* Atmospheric motion design
-* Reusable scene architecture
-* Minimal UI
-* Responsive layout
-* Smooth custom scrolling
-* Experimental storytelling
+- Cinematic scroll transitions
+- Layered scene system
+- Ambient audio experience
+- Atmospheric motion design
+- Reusable scene architecture
+- Minimal UI
+- Responsive layout
+- Smooth custom scrolling
+- Experimental storytelling
 
 ---
 
 ## Tech Stack
 
-* Next.js
-* React
-* Framer Motion
-* Tailwind CSS
-* TypeScript
+- Next.js
+- React
+- Framer Motion
+- Tailwind CSS
+- TypeScript
 
 ---
 
@@ -71,18 +71,18 @@ The goal is to create a contemplative atmosphere where the user slowly drifts th
 
 Residual intentionally avoids:
 
-* aggressive interaction
-* excessive UI
-* content overload
-* social mechanics
-* traditional navigation patterns
+- aggressive interaction
+- excessive UI
+- content overload
+- social mechanics
+- traditional navigation patterns
 
 The experience is built around:
 
-* pacing
-* atmosphere
-* emotional space
-* visual silence
+- pacing
+- atmosphere
+- emotional space
+- visual silence
 
 ---
 
@@ -97,13 +97,13 @@ npm run dev
 
 ## Future Ideas
 
-* Original ambient soundtrack
-* Scene-specific sound design
-* Dynamic grain/noise system
-* Mobile motion refinements
-* Interactive typography
-* Procedural atmospheric layers
-* Photography metadata integration
+- Original ambient soundtrack
+- Scene-specific sound design
+- Dynamic grain/noise system
+- Mobile motion refinements
+- Interactive typography
+- Procedural atmospheric layers
+- Photography metadata integration
 
 ---
 
